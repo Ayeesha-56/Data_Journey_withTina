@@ -1,0 +1,6 @@
+Day 11 of 120 Days With Data
+
+Built key metrics yesterday:
+* Sales by Category, Monthly Trend and Segment.
+
+While finalizing the YoY revenue view, my conditional formatting returned the wrong Unicode color indicator. The formula looked correct, but the output wasn’t.
