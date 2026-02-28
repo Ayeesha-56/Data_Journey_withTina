@@ -1,0 +1,31 @@
+Day 13 of 120 — Completed My Guided Project 
+
+![data_journey_withTina)[Screenshot 2026-02-28 033745]
+![data_journey_withTina)[Screenshot 2026-02-28 033745]
+Today, I wrapped up my guided video project, and this one was different.
+
+Whenever I follow a guided project, I don’t just watch to replicate the dashboard. I study the thinking pattern behind it:
+	•	What’s the first thing the mentor does when they see the dataset?
+	•	How do they approach the business problem?
+	•	How do they structure their model before building visuals?
+
+This time, I learned so much.
+
+From building a solid data model…
+To implementing time intelligence functions…
+To writing DAX in ways that made me pause and think, “How did they even think to this level?”
+
+It was powerful.
+
+I paid close attention to:
+	•	How each chart was structured to answer a specific insight
+	•	The intentional use of colors
+	•	Clean wireframing and layout decisions
+	•	How storytelling guided the entire dashboard
+
+It wasn’t just a tutorial. It was a masterclass in analytical thinking.
+
+I’m truly inspired, and I’ll be applying these principles to all my Excel and dashboard projects moving forward.
+
+Thank you so much, Daniel Nte
+Thank you so much, Rita.
